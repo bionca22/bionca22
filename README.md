@@ -18,12 +18,10 @@
   <img align="center" alt="bibi_mongo" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-plain-wordmark.svg" />
 </div>
 
-##
-
 <div> 
  <a href = "mailto:bibicoder@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bianca-c-lopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/ubiratan-motta/ubiratan-motta/blob/output/github-contribution-grid-snake.svg)
+
+  ![](https://raw.githubusercontent.com/bionca22/bionca22/output/github-contribution-grid-snake.svg)
  
 </div>
