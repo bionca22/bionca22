@@ -3,10 +3,6 @@
 
 ## Hello There! 
 
-<div align="center">
-  <a href="https://github.com/bionca22/">
-</div>
-
 <!-- <img src="https://bionca22.github.io/Gif/"> isso aqui não funciona, se quiser ajudar entre en contato pf! hehe -->
 
 <div style="display: inline_block"><br>
@@ -17,11 +13,10 @@
   <img align="center" alt="bibi_mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="bibi_mongo" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-plain-wordmark.svg" />
 </div>
-
+<br>
 <div> 
  <a href = "mailto:bibicoder@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bianca-c-lopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  ![](https://raw.githubusercontent.com/bionca22/bionca22/output/github-contribution-grid-snake.svg)
  
 </div>
