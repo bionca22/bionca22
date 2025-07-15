@@ -8,6 +8,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="bibi_py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="bibi_flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flask/flask-original.svg"/>
+  <img align="center" alt="bibi_django" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg"/>
   <img align="center" alt="bibi_linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" />
   <img align="center" alt="bibi_docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-plain-wordmark.svg"/>
   <img align="center" alt="bibi_mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
