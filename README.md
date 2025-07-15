@@ -12,6 +12,10 @@
   <img align="center" alt="bibi_docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-plain-wordmark.svg"/>
   <img align="center" alt="bibi_mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="bibi_mongo" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-plain-wordmark.svg" />
+  <img align="center" alt="bibi_numpy" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/numpy/numpy-original.svg" />
+  <img align="center" alt="bibi_pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pandas/pandas-original-wordmark.svg" />
+  <img align="center" alt="bibi_pytest" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pytest/pytest-original-wordmark.svg" />
+  
 </div>
 <br>
 <div> 
