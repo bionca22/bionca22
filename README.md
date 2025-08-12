@@ -17,7 +17,7 @@
   <img align="center" alt="bibi_pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pandas/pandas-original-wordmark.svg" />
   <img align="center" alt="bibi_pytest" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pytest/pytest-original-wordmark.svg" />
   <img align="center" alt="bibi_postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="bibi_airflow" height="30" width="40" src="https://img.favpng.com/24/20/19/airflow-airbnb-data-engineering-workflow-png-favpng-vT78sT1iLbYmUBPtZ8iKXx6x4.jpg" />
+  <img align="center" alt="bibi_airflow" height="30" width="40" src="https://pbs.twimg.com/profile_images/1176455256869412866/Xu7llkL3_200x200.png" />
   
 </div>
 <br>
